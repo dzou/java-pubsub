@@ -4,7 +4,7 @@
       "git": {
         "name": ".",
         "remote": "https://github.com/googleapis/java-pubsub.git",
-        "sha": "cf8e83d6ab07da3e37b346c124529bc89226c277"
+        "sha": "0ebad0a2c92f00126d9c00aec1af3c73333c3a31"
       }
     },
     {
@@ -19,7 +19,7 @@
       "git": {
         "name": "synthtool",
         "remote": "https://github.com/googleapis/synthtool.git",
-        "sha": "8eae0234a16b26c2ff616d305dbd9786c8b10a47"
+        "sha": "1c0c698705e668ccb3d68556ae7260f16ce63a6e"
       }
     }
   ],
@@ -98,6 +98,7 @@
     "CODE_OF_CONDUCT.md",
     "CONTRIBUTING.md",
     "LICENSE",
+    "SECURITY.md",
     "codecov.yaml",
     "google-cloud-pubsub/src/main/java/com/google/cloud/pubsub/v1/SchemaServiceClient.java",
     "google-cloud-pubsub/src/main/java/com/google/cloud/pubsub/v1/SchemaServiceSettings.java",
